@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\sivaleti\Documents\GitHub\J2SEPracticeJDK15\.metadata\.plugins\org.eclipse.jdt.core
+2648940027.index
+3944652609.index
+3416378999.index
+844638233.index
+2842102345.index
+2852110476.index
+731528267.index
+2142079336.index
+436683951.index
